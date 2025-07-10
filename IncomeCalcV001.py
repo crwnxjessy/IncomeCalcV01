@@ -1,4 +1,4 @@
-print("Income Calculator by Jessy Pascua")
+print("Income Calculator by Jessy")
 
 nwc = float(input("What is your hourly pay? $"))
 hpd = float(input("How many hours do you work per day? "))
